@@ -1,0 +1,3 @@
+
+[13:01:24] Addressbook has been loaded!
+[13:02:08] Addressbook has been saved!
